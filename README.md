@@ -1,4 +1,4 @@
-# 🌏 cfxmty
+# 🇺🇳 Aryan
 **`Hobbyist (Software Developer/Software Designer)`**
 
 I'm a hobbyist developer who discovered a love for coding back in 2018. Since then, I've been learning and experimenting with different projects. In early 2021, I realized that I enjoy working behind the scenes (backend and systems work) much more than frontend development.Right now, I'm diving into Rust and exploring its ecosystem, always looking for ways to grow and build interesting things along the way.
