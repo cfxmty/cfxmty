@@ -18,4 +18,3 @@ I'm a hobbyist developer who discovered a love for coding back in 2018. Since th
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google-Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white) ![Pterodectyl](https://img.shields.io/badge/Pterodactyl-10539F.svg?style=for-the-badge&logo=Pterodactyl&logoColor=white)
 ---
-![cfxmty's Stats](https://github-readme-stats.vercel.app/api?username=cfxmty&theme=nord&show_icons=true&hide_border=true&count_private=true) ![cfxmty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cfxmty&theme=nord&hide_border=true)
